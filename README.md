@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently majoring Computer Science at New Bulgarian University.
-- ⚡ Fun fact: ...
+
 <!--
 **b0jkata14/b0jkata14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
