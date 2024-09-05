@@ -1,6 +1,6 @@
-### Hi there, I'm Bozhidar 👋
+## Hi there, I'm Bozhidar 👋
 
-## I am a student
+# I am a student
 **b0jkata14/b0jkata14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
